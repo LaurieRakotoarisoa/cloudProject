@@ -14,8 +14,8 @@ public class Warshall {
 	private static double edgeThreshold = 0.6;
 	private static List<Point> jaccard;
 	
-	public static List<Point> initiazePoint(String file) throws IOException {
-		return Files.lines(Paths.get(file))
+	public static List<Point> initiazePoint() throws IOException {
+		return Files.lines(Paths.get(Jaccard))
 			.map(line -> line.split(" "))
 			.map(a -> new Point(a[0], a[1], Double.parseDouble(a[2])))
 			.collect(Collectors.toList());
@@ -51,20 +51,23 @@ public class Warshall {
 	}
 	
 	private static void computeWarshallFile(double[][] dist) throws IOException {
-		BufferedWriter bf =Files.newBufferedWriter(Paths.get("Indice-de-centralite/warshall.txt"), StandardOpenOption.CREATE);
+		BufferedWriter bf =Files.newBufferedWriter(Paths.get(Warshall));
 		List<String> files = jaccard.stream().map(p->p.file1).distinct().collect(Collectors.toList());
+		System.out.println(files);
 		for (int i = 0; i < dist.length; i++) {
-			for (int j = 0; j < dist.length; j++) {
+			for (int j = i+1; j < dist.length; j++) {
 				String res = files.get(i)+" "+files.get(j)+" "+dist[i][j]+"\n";
 				bf.write(res);
 			}
 		}
+		bf.close();
 	}
 
 	public static void main(String[] args) throws IOException {
 		long start = System.currentTimeMillis(); 
-		jaccard = initiazePoint(Jaccard);
-		computeWarshallFile(calculShortestPaths());
+		jaccard = initiazePoint();
+		double[][] result = calculShortestPaths();
+		computeWarshallFile(result);
 		long elapsedTimeMillis = System.currentTimeMillis() - start;
 		System.out.println(elapsedTimeMillis);
 	}
