@@ -1,13 +1,16 @@
 package cloud;
 
+import java.io.BufferedWriter;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 import java.util.List;
 import java.util.stream.Collectors;
 
 public class Warshall {
-	private static String File = "jaccard/jaccard.txt";
+	private static String Jaccard = "Indice-de-centralite/jaccard.txt";
+	private static String Warshall = "Indice-de-centralite/warshall.txt";
 	private static double edgeThreshold = 0.6;
 	private static List<Point> jaccard;
 	
@@ -45,19 +48,23 @@ public class Warshall {
 	    }
 
 	    return dist;
-	  }
+	}
+	
+	private static void computeWarshallFile(double[][] dist) throws IOException {
+		BufferedWriter bf =Files.newBufferedWriter(Paths.get("Indice-de-centralite/warshall.txt"), StandardOpenOption.CREATE);
+		List<String> files = jaccard.stream().map(p->p.file1).distinct().collect(Collectors.toList());
+		for (int i = 0; i < dist.length; i++) {
+			for (int j = 0; j < dist.length; j++) {
+				String res = files.get(i)+" "+files.get(j)+" "+dist[i][j]+"\n";
+				bf.write(res);
+			}
+		}
+	}
 
 	public static void main(String[] args) throws IOException {
 		long start = System.currentTimeMillis(); 
-		jaccard = initiazePoint(File);
-		//System.out.println(points);
-		double[][] result = calculShortestPaths();
-		for (int i = 0; i < result.length; i++) {
-			for (int j = 0; j < result.length; j++) {
-				System.out.print(result[i][j]+"\t");
-			}
-			System.out.println();
-		}
+		jaccard = initiazePoint(Jaccard);
+		computeWarshallFile(calculShortestPaths());
 		long elapsedTimeMillis = System.currentTimeMillis() - start;
 		System.out.println(elapsedTimeMillis);
 	}

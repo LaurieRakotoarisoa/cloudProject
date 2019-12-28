@@ -44,7 +44,7 @@ public class Jaccard {
 	}
 	
 	private static void computeJaccardFile(String file,List<String> otherFiles) throws IOException {
-		BufferedWriter bf =Files.newBufferedWriter(Paths.get("jaccard/jaccard.txt"), StandardOpenOption.CREATE,StandardOpenOption.APPEND);
+		BufferedWriter bf =Files.newBufferedWriter(Paths.get("Indice-de-centralite/jaccard.txt"), StandardOpenOption.CREATE,StandardOpenOption.APPEND);
 		otherFiles.stream()
 		.filter(f2 -> f2.compareTo(file) > 0)
 		.forEach(f2 -> distanceJaccard(bf,file, f2));
