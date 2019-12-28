@@ -18,18 +18,6 @@ import java.util.stream.Stream;
 public class Jaccard {
 	private static String DIRECTORY = "index/";
 	
-	public static void computeJaccard(List<String> files) {
-		files.stream()
-		.forEach(f -> {
-			try {
-				computeJaccardFile(f, files);
-			} catch (IOException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
-			}
-		});
-	}
-	
 	public static List<String> getOrderedFileNames(String directory){
 		try(Stream<Path> files = Files.walk(Paths.get(directory))){
 			return files.filter(Files::isRegularFile)
@@ -43,8 +31,20 @@ public class Jaccard {
 		return null;
 	}
 	
+	public static void computeJaccard(List<String> files) {
+		files.stream()
+		.forEach(f -> {
+			try {
+				computeJaccardFile(f, files);
+			} catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		});
+	}
+	
 	private static void computeJaccardFile(String file,List<String> otherFiles) throws IOException {
-		BufferedWriter bf =Files.newBufferedWriter(Paths.get("docs/jaccard"), StandardOpenOption.CREATE,StandardOpenOption.APPEND);
+		BufferedWriter bf =Files.newBufferedWriter(Paths.get("jaccard/jaccard.txt"), StandardOpenOption.CREATE,StandardOpenOption.APPEND);
 		otherFiles.stream()
 		.filter(f2 -> f2.compareTo(file) > 0)
 		.forEach(f2 -> distanceJaccard(bf,file, f2));
@@ -85,10 +85,10 @@ public class Jaccard {
 	}
 	
 	public static void main (String [] args) throws IOException {
-		DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");  
-		System.out.println("Début "+dtf.format(LocalDateTime.now()));  
+		long start = System.currentTimeMillis(); 
 		computeJaccard(getOrderedFileNames(DIRECTORY));
-		System.out.println("Fin "+dtf.format(LocalDateTime.now()));  
+		long elapsedTimeMillis = System.currentTimeMillis() - start;
+		System.out.println(elapsedTimeMillis);
 	}
 	
 

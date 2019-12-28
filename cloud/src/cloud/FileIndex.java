@@ -26,8 +26,8 @@ public class FileIndex {
 		return null;
 	}
 	
-	private static void createFileIndex(Map<String,Long> map,String path) {
-		String s = map.entrySet().stream()
+	private static void createFileIndex(String path) {
+		String s = createMapIndex(path).entrySet().stream()
 			     .map(entry -> entry.getKey()+" "+entry.getValue())
 			     .collect(Collectors.joining("\n"));
 		try {
@@ -40,16 +40,11 @@ public class FileIndex {
 		
 	}
 	
-	private static void createIndex(String path) {
-		Map<String,Long> map = createMapIndex(path);
-		createFileIndex(map, path);
-	}
-	
 	public static void createFileIndexOfDirectory(String directory) {
 		try(Stream<Path> files = Files.walk(Paths.get(directory))){
 			files.filter(Files::isRegularFile)
 			.map(f -> f.getFileName().toString())
-			.forEach(FileIndex::createIndex);
+			.forEach(FileIndex::createFileIndex);
 		}catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
