@@ -3,14 +3,18 @@ package firebase;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.HashMap;
+import java.util.List;
 import java.util.Map;
+import java.util.Set;
 import java.util.concurrent.ExecutionException;
 import java.util.stream.Stream;
 
 import com.google.api.core.ApiFuture;
 import com.google.auth.oauth2.GoogleCredentials;
 import com.google.cloud.firestore.DocumentReference;
+import com.google.cloud.firestore.DocumentSnapshot;
 import com.google.cloud.firestore.Firestore;
+import com.google.cloud.firestore.QueryDocumentSnapshot;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.FirebaseOptions;
 import com.google.firebase.cloud.FirestoreClient;
@@ -54,11 +58,53 @@ public class Firebase {
 		data.put("name", filename);
 		data.put("words", occurences);
 		ApiFuture<DocumentReference> addedDocRef = db.collection("index").add(data);
-		System.out.println("Added document with ID: " + addedDocRef.get().getId());
+		//System.out.println("Added document with ID: " + addedDocRef.get().getId());
 	}
 	
-	public static void main(String [] args) throws IOException {
-		addIndex2Firebase("cloud/docs");
+	public static void deleteDocumentsFromCollection(String collection) throws IOException {
+		Connection();
+		Firestore db = FirestoreClient.getFirestore();
+		Iterable<DocumentReference> documents = db.collection(collection).listDocuments();
+	    for (DocumentReference document : documents) {
+	      document.delete();
+	    }
+
+	}
+	
+	public static void getFilesFromCollection(String collection) throws IOException, InterruptedException, ExecutionException {
+		Connection();
+		Firestore db = FirestoreClient.getFirestore();
+		Iterable<DocumentReference> documents = db.collection(collection).listDocuments();
+	    for (DocumentReference document : documents) {
+	      DocumentSnapshot snapshot = document.get().get();
+	      System.out.println(snapshot.get("words").getClass());
+	      
+	    }
+	}
+	
+	@SuppressWarnings("unchecked")
+	public static void searchWord(String word) throws IOException, InterruptedException, ExecutionException {
+		Connection();
+		Firestore db = FirestoreClient.getFirestore();
+		Iterable<DocumentReference> documents = db.collection("index").listDocuments();
+	    for (DocumentReference document : documents) {
+	      DocumentSnapshot snapshot = document.get().get();
+	      Stream<String> mots = ((Map<String,Long>)snapshot.get("words")).keySet().parallelStream();
+	      if(mots.anyMatch(str -> str.equals(word))){
+	    	  System.out.println(snapshot.get("name"));
+	      }
+	      
+	    }
+	}
+	
+	public static void main(String [] args) throws IOException, InterruptedException, ExecutionException {
+//		long start = System.currentTimeMillis();
+//		addIndex2Firebase("cloud/docs");
+//		//deleteDocumentsFromCollection("index");
+//		long elapsedTimeMillis = System.currentTimeMillis() - start;
+//		System.out.println(elapsedTimeMillis);
+		//getFilesFromCollection("index");
+		searchWord("abercrombie");
 	}
 
 }

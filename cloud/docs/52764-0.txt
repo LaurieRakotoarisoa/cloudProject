@@ -1,0 +1,2033 @@
+﻿Project Gutenberg's Under a Veil, by Randell Roberts and George M. Baker
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+Title: Under a Veil
+
+Author: Randell Roberts
+        George M. Baker
+
+Release Date: August 10, 2016 [EBook #52764]
+
+Language: English
+
+Character set encoding: UTF-8
+
+*** START OF THIS PROJECT GUTENBERG EBOOK UNDER A VEIL ***
+
+
+
+
+Produced by David Edwards, ellinora and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+
+
+
+
+                           Transcriber Notes
+
+ Obvious spelling errors corrected, punctuation made consistent.
+
+ An advertisement in the text uses a Unicode character "White Right
+   Pointing Index" (U+261E) for a right pointing hand. If the font in
+   use on the reader's device does not support it, this character, ☞,
+   may not display correctly.
+
+ Italic text is represented by underscores surrounding the _italic
+   text_.
+
+ Bold text is represented by equals signs surrounding the =bold text=.
+
+ Small capitals have been converted to ALL CAPS.
+
+------------------------------------------------------------------------
+
+
+
+
+No. 2.
+
+=Just Published.= The “Popular Edition” of =Baker’s Reading Club= and
+=Hand Speaker=. Nos. 1, 2, and 3. 50 selections in each. Price 15 cents
+each.
+
+
+                                  THE
+                                 GLOBE
+                                 DRAMA.
+
+                            ALL THE WORLD’S
+                                A STAGE
+
+                             UNDER A VEIL.
+
+          By Sir Randall Roberts, Bart., and George M. Baker.
+
+
+                                BOSTON:
+                         GEORGE M. BAKER & CO.,
+                         41-45 Franklin Street.
+
+                  Copyright, 1876, by GEORGE M. BAKER.
+
+------------------------------------------------------------------------
+
+
+
+
+                       Spencer’s Universal Stage.
+
+ _A Collection of COMEDIES, DRAMAS, and FARCES, adapted to either Public
+     or Private Performance. Containing a full description of all the
+                        necessary Stage Business._
+
+              PRICE, 15 CENTS EACH. ☞ No Plays Exchanged.
+
+
+  1. LOST IN LONDON. A Drama in 3 Acts. 6 male, 4 female characters.
+
+  2. NICHOLAS FLAM. A Comedy in 2 Acts. By J. B. Buckstone. 5 male, 3
+       female char.
+
+  3. THE WELSH GIRL. A Comedy in 1 Act. By Mrs. Planche. 3 male, 2
+       female char.
+
+  4. JOHN WOPPS. A Farce in 1 Act. By W. E. Suter. 4 male, 2 female
+       char.
+
+  5. THE TURKISH BATH. A Farce in 1 Act. By Montague Williams and F. C.
+       Burnand. 6 male, 1 female char.
+
+  6. THE TWO PUDDIFOOTS. A Farce in 1 Act. By J. M. Morton. 3 male, 3
+       female char.
+
+  7. OLD HONESTY. A Comic Drama in 2 Acts. By J. M. Morton. 5 male, 2
+       female char.
+
+  8. TWO GENTLEMEN IN A FIX. A Farce in 1 Act. By W. E. Suter. 2 male
+       char.
+
+  9. SMASHINGTON GOIT. A Farce in 1 Act. By T. J. Williams. 5 male, 3
+       female char.
+
+ 10. TWO HEADS BETTER THAN ONE. A Farce in 1 Act. By Lenox Horne. 4
+       male, 1 female char.
+
+ 11. JOHN DOBBS. A Farce in 1 Act. By J. M. Morton. 5 male, 2 female
+       char.
+
+ 12. THE DAUGHTER of the REGIMENT. A Drama in 2 Acts. By Edward
+       Fitzball, 6 male, 2 female char.
+
+ 13. AUNT CHARLOTTE’S MAID. A Farce in 1 Act. By J. M. Morton. 3 male, 3
+       female char.
+
+ 14. BROTHER BILL AND ME. A Farce in 1 Act. By W. E. Suter. 4 male, 3
+       female char.
+
+ 15. DONE ON BOTH SIDES. A Farce in 1 Act. By J. M. Morton. 3 male, 2
+       female char.
+
+ 16. DUNDUCKETTY’S PICNIC. A Farce in 1 Act. By T. J. Williams. 6 male,
+       3 female char.
+
+ 17. I’VE WRITTEN TO BROWNE. A Farce in 1 Act. By T. J. Williams. 4
+       male, 3 female char.
+
+ 19. MY PRECIOUS BETSY. A Farce in 1 Act. By J. M. Morton. 4 male, 4
+       female char.
+
+ 20. MY TURN NEXT. A Farce in 1 Act. By T. J. Williams. 4 male, 3 female
+       char.
+
+ 22. THE PHANTOM BREAKFAST. A Farce in 1 Act. By Chas. Selby. 3 male, 2
+       female char.
+
+ 23. DANDELION’S DODGES. A Farce in 1 Act. By T. J. Williams. 4 male, 2
+       female char.
+
+ 24. A SLICE OF LUCK. A Farce in 1 Act. By J. M. Morton. 4 male, 2
+       female char.
+
+ 25. ALWAYS INTENDED. A Comedy in 1 Act. By Horace Wigan. 3 male, 3
+       female char.
+
+ 26. A BULL IN A CHINA SHOP. A Comedy in 2 Acts. By Charles Matthews. 6
+       male, 4 female char.
+
+ 27. ANOTHER GLASS. A Drama in 1 Act. By Thomas Morton. 6 male, 3 female
+       char.
+
+ 28. BOWLED OUT. A Farce in 1 Act. By H. T. Craven. 4 male, 3 female
+       char.
+
+ 29. COUSIN TOM. A Commedietta in 1 Act. By Geo. Roberts. 3 male, 2
+       female char.
+
+ 30. SARAH’S YOUNG MAN. A Farce in 1 Act. By W. E. Suter. 3 male, 3
+       female char.
+
+ 31. HIT HIM, HE HAS NO FRIENDS. A Farce in 1 Act. By E. Yates and N. H.
+       Harrington. 7 male, 3 female char.
+
+ 32. THE CHRISTENING. A Farce in 1 Act. By J. B. Buckstone. 5 male, 6
+       female char.
+
+ 33. A RACE FOR A WIDOW. A Farce in 1 Act. By T. J. Williams. 5 male, 4
+       female char.
+
+ 34. YOUR LIFE’S IN DANGER. A Farce in 1 Act. By J. M. Morton. 3 male, 3
+       female char.
+
+ 35. TRUE UNTO DEATH. A Drama in 2 Acts. By J. Sheridan Knowles. 6 male,
+       2 female char.
+
+ 36. DIAMOND CUT DIAMOND. An Interlude in 1 Act. By W. H. Murray. 10
+       male, 1 female char.
+
+ 37. LOOK AFTER BROWN. A Farce in 1 Act. By George A. Stuart, M. D. 6
+       male, 1 female char.
+
+ 38. MONSEIGNEUR. A Drama in 3 Acts. By Thomas Archer. 15 male, 3 female
+       char.
+
+ 39. A VERY PLEASANT EVENING. A Farce in 1 Act. By W. E. Suter. 3 male
+       char.
+
+ 40. BROTHER BEN. A Farce in 1 Act. By J. M. Morton. 3 male, 3 female
+       char.
+
+ 41. ONLY A CLOD. A Comic Drama in 1 Act. By J. P. Simpson. 4 male, 1
+       female char.
+
+ 42. GASPARDO THE GONDOLIER. A Drama in 3 Acts. By George Almar. 10
+       male, 2 female char.
+
+ 43. SUNSHINE THROUGH THE CLOUDS. A Drama in 1 Act. By Slingsby
+       Lawrence. 3 male, 3 female char.
+
+ 44. DON’T JUDGE BY APPEARANCES. A Farce in 1 Act. By J. M. Morton. 3
+       male, 2 female char.
+
+ 45. NURSEY CHICKWEED. A Farce in 1 Act. By T. J. Williams. 4 male, 2
+       female char.
+
+ 46. MARY MOO; or, Which shall I Marry? A Farce in 1 Act. By W. E.
+       Suter. 2 male, 1 female char.
+
+ 47. EAST LYNNE. A Drama in 5 Acts. 8 male, 7 female char.
+
+ 48. THE HIDDEN HAND. A Drama in 5 Acts. By Robert Jones. 16 male, 7
+       female char.
+
+ 49. SILVERSTONE’S WAGER. A Commedietta in 1 Act. By R. R. Andrews. 4
+       male, 3 female char.
+
+ 50. DORA. A Pastoral Drama in 3 Acts. By Chas. Reade. 5 male, 2 female
+       char.
+
+ 55. THE WIFE’S SECRET. A Play in 5 Acts. By Geo. W. Lovell. 10 male, 2
+       female char.
+
+ 56. THE BABES IN THE WOOD. A Comedy in 3 Acts. By Tom Taylor. 10 male,
+       3 female char.
+
+ 57. PUTKINS; Heir to Castles in the Air. A Comic Drama in 1 Act. By W.
+       R. Emerson. 2 male, 2 female char.
+
+ 58. AN UGLY CUSTOMER. A Farce in 1 Act. By Thomas J. Williams. 3 male,
+       2 female char.
+
+ 59. BLUE AND CHERRY. A Comedy in 1 Act. 3 male, 2 female char.
+
+ 60. A DOUBTFUL VICTORY. A Comedy in 1 Act. 3 male, 2 female char.
+
+ 61. THE SCARLET LETTER. A Drama in 3 Acts. 8 male, 7 female char.
+
+ 62. WHICH WILL HAVE HIM? A Vaudeville. 1 male, 2 female char.
+
+ 63. MADAM IS ABED. A Vaudeville in 1 Act. 2 male, 2 female char.
+
+ 64. THE ANONYMOUS KISS. A Vaudeville. 2 male, 2 female char.
+
+ 65. THE CLEFT STICK. A Comedy in 3 Acts. 5 male, 3 female char.
+
+ 66. A SOLDIER, A SAILOR, A TINKER, AND A TAILOR. A Farce in 1 Act. 4
+       male, 2 female char.
+
+ 67. GIVE A DOG A BAD NAME. A Farce. 2 male, 2 female char.
+
+ 68. DAMON AND PYTHIAS. A Farce. 6 male, 4 female char.
+
+ 69. A HUSBAND TO ORDER. A Serio-comic Drama in 2 Acts. 5 male, 3 female
+       char.
+
+ 70. PAYABLE ON DEMAND. A Domestic Drama in 2 Acts. 7 male, 1 female
+       char.
+
+
+_Descriptive Catalogue mailed free on application to_
+
+                        GEO. M. BAKER & CO., 41-45 Franklin St., Boston.
+
+------------------------------------------------------------------------
+
+
+
+
+                             UNDER A VEIL.
+
+                        A Comedietta in One Act.
+
+                                   BY
+
+                       SIR RANDAL ROBERTS, BART.,
+
+                                  AND
+
+                            GEORGE M. BAKER.
+
+
+                                BOSTON:
+                      GEORGE M. BAKER AND COMPANY,
+                          41 FRANKLIN STREET.
+                                 1877.
+
+------------------------------------------------------------------------
+
+
+
+
+                              CHARACTERS.
+
+
+                           CHARLES DEVEREAUX.
+                           PRITCHARD.
+                           ELIZABETH.
+                           WAITER.
+                             Costumes modern.
+
+
+                               COPYRIGHT.
+                           BY GEO. M. BAKER.
+                                 1877.
+
+------------------------------------------------------------------------
+
+
+
+
+                             UNDER A VEIL.
+
+
+SCENE I.—_Two rooms right and left, stage divided in the centre; a door
+  of communication between rooms, fastened by a bolt on either side;
+  small tables, sofas, and arm-chairs. Practicable doors_, 1 E. L., 2 E.
+  L., _and_ 2 E. R. _Window at back of_ R. _room. Door at back of_ L.
+  _room_.
+
+_Pri._ (_advancing towards table_). Beg pardon, sir.
+
+_Cha._ (_lazily_). All right.
+
+_Pri._ Beg pardon, sir, exceedingly sorry to disturb you; (_to_ WAITER)
+he’s asleep.
+
+_Cha._ (_snores_).
+
+_Pri._ (_loudly_). I’m really very sorry to wake you, sir.
+
+_Cha._ (_still lying on sofa_). What! you don’t mean to say it’s twelve.
+
+_Pri._ Twelve! ah, to be sure, the hour I was to wake him for the ball.
+No, sir, it’s only ten o’clock; but (_looking at him_) he’s asleep
+again—the devil! (_Calling loudly._) I’m really pained to awake you,
+sir—
+
+_Cha._ (_half rising and yawning_). What on earth’s the matter? Oh, it’s
+you, Mr. Red Lion, is it?
+
+                                                          [_Sinks back._
+
+_Pri._ Beg pardon, sir, I am not Red Lion: it is my neighbor of the next
+hotel I suppose you allude to. Here, sir, you are in the first and best
+hotel in the town,—the White Horse.
+
+_Cha._ (_stretching himself on sofa_). All right, with all my heart,
+then, Mr. White Horse. What is it?
+
+_Pri._ Well, sir, the fact is, I’m in a dreadful fix—a most awkward
+predicament, out of which I cannot extricate myself without your
+assistance. You see, sir, if you will only pardon it, but my daughter
+was only married to-day. Yes, sir, married; in fact, sir, she was
+married to make her happy—you know, sir,—you understand! And, sir, just
+as we are having a little dance in honor of this marriage, which takes
+up all our spare accommodation, a lady and her maid arrive, asking for
+rooms; and, as they require two beds in one room, I dared to hope that
+perhaps, sir, you would oblige me by changing this room for the next
+one. You see, sir, that the bedroom belonging to this sitting-room has
+two beds, whilst in here (_throwing open door in centre partition_)
+there is only one bed, though in all respects furnished in the same
+manner. If you, sir, would oblige me by just looking in (_on turning to_
+CHARLES, _finds him asleep_)—Confound it, he’s asleep again! (_To
+audience._) An idea occurs to me; (_turning to_ WAITER) here, George,
+catch hold of one end of this sofa. (_They take sofa, and carry it into
+next room with_ CHARLES _asleep on it_.) There, I don’t believe he’ll
+find it out; here, George, his luggage. (_Brings baggage, but leaves
+letter._) There, now, that’s all right, and now (_entering next door,
+and closing with bolt_) I can fetch the ladies up.
+
+                                                                [_Exit._
+
+    _Re-enter_ PRICHARD _ushering in_ LUCY _and_ ELIZABETH. PRICHARD
+        _carrying candle_. CHARLES _asleep in_ R. H. _room_.
+
+_Pri._ These are the rooms, madam. This door leads into the bedroom.
+
+              [_Shows door_ 1 E. L., _and_ ELIZABETH _takes luggage in_.
+
+_Luc._ Many thanks. Don’t forget the horses at six o’clock to-morrow
+morning.
+
+_Pri._ To the moment, madam. (_Aside to_ ELIZABETH, _who has
+re-entered_.) If you can find time, join us downstairs. Don’t forget; I
+shall expect you.
+
+_Eliz._ All right; as soon as missus has done with me.
+
+                                                            [_Exit_ PRI.
+
+_Cha._ (R. H., _waking up_). Hullo! there’s somebody talking in the next
+room.
+
+                                                 [_Listens, sitting up._
+
+_Luc._ You seem to know the landlord, Elizabeth?
+
+_Eliz._ Oh, yes, ma’am, I’ve known him for some time: his wife was a
+friend of mine, and his daughter that married to-day is my godchild.
+
+_Luc._ Indeed! Then I suppose you’d like to join them downstairs. You
+can go, and I’ll open my things myself.
+
+_Eliz._ Oh, thank you, mum!
+
+                                                         [_Exit_ L. 2 E.
+
+                   LUCY _unpacking her boxes_, L. H.
+
+_Cha._ (_sitting on side of sofa_, R. H.). By Jove! one hears every
+thing that is going on next door. Seems to be a lady and her maid—not
+very gentlemanly to listen, Master Charley, but it’s interesting. Ah,
+well! when I was young this might have led to an adventure. I should
+never have rested until I had made the acquaintance of my fair
+neighbor,—for I suppose she is fair,—whilst now there’s not the
+slightest danger. Confound it! I must see this woman, though. (_Rising,
+and going towards door._) Hullo! I could have sworn the lock of the door
+was on the other side just now. That’s deuced funny. (_Looking round the
+room._) Why, where the mischief am I? and how on earth did I get here?
+
+_Luc._ (_looking at her watch_). Half-past ten.
+
+_Cha._ Ah! I understand. I thought I had a terrible nightmare. A
+frightful monster held me by the feet, and another by the head; it
+appears, however, that these monsters must have been the Red Lion or the
+White Horse, and my room has been given to this lady, whoever she may
+be, to suit their convenience. Well, I don’t care very much about seeing
+her. All women are alike—just as cats are all alike. (_Stoops down to
+examine the door._) Why, there’s no lock! only a bolt. Well, I can’t
+help that; let’s see if we can’t get another nap until it’s time to go
+to the ball.
+
+                                                     [_Returns to sofa._
+
+_Luc._ (_book in hand, seated on sofa_). This “Voyage round the World”
+is always a charming book to read.
+
+    _She puts her book upon the table, and leans her head upon her arm
+        as if to read book; perceives letter._
+
+_Luc._ Why, here’s somebody’s letter! (_Takes it up, coming down
+front._) Not very ladylike to read it, I suppose; but all women are
+curious. Seems to be unfinished. Of course it’s very wrong to read this
+letter (_reads_),—
+
+      “MY DEAR GEORGE,—As I quite anticipated on my return from
+    home, the Government appointment I expected has been given to
+    another. Pardon me, if on receiving this intelligence, I quitted
+    London without bidding you adieu—and as it seems”—
+
+This is really too bad of me,—
+
+    “that I am too lazy to do any thing, as you all of you always
+    said”—
+
+                                                             [_Pausing._
+
+What on earth does that mean? I should much like to see the author
+(_reading again from letter_),—
+
+    “I intend as soon as I have realized what property I have, to go
+    to Baden, and once more try my luck at the tables. If I win, I
+    shall found a hospital; and if I lose—well, in that case, the
+    only thing I can see for me to do is to join my mother.”
+
+                                            [_Finishing reading letter._
+
+That’s all; this gentleman has got no further, or else he has taken away
+the end of it.
+
+                                  [_Commences re-reading in a low tone._
+
+_Cha._ (_rousing himself_). Oh! I can’t lay here any longer. Morpheus
+won’t come to my aid. What shall I do? Well, I might just as well finish
+my letter to George. Why! what the deuce have I done with it? (_Searches
+in his pockets._) Why, it seems to me I left it on the table before I
+went to sleep.
+
+                                             [_He looks upon the table._
+
+_Luc._ (_again reading letter_). “In that case, the only thing I can see
+for me to do is to join my mother.”
+
+_Cha._ (_striking his forehead_). Confound it! I’ve left it in the next
+room.
+
+_Luc._ (_putting down letter, and taking up book_). After all, I’m not
+George, and I’ve no right to read that letter.
+
+_Cha._ But then my letter must be in the power of this woman. It appears
+to me that I’ve a perfect right to—
+
+                                               [_Knocks gently at door._
+
+_Luc._ Good gracious! there’s some one knocking. Who is there? What do
+you want?
+
+_Cha._ A thousand pardons, madam. I am the person who inhabited a few
+minutes ago the room you now occupy; and by accident in leaving the room
+I left an unfinished letter.
+
+_Luc._ (_aside_). Dear me! This is the young gentleman that’s too lazy
+for any thing.
+
+_Cha._ Would you be kind enough to return me my letter?
+
+_Luc._ (_embarrassed_). Sir, I’ll ring in order that your letter may be
+brought to you.
+
+_Cha._ A thousand pardons, madam; but pray don’t trouble to ring. Can’t
+you slip it under the door?
+
+_Luc._ Oh, certainly! There it is.
+
+                                                       [_Passes letter._
+
+_Cha._ Thanks. (_Aside._) A charming voice,—soft as a bird’s; and, if
+the plumage only corresponds—(_He goes to examine fastening._) Confound
+this bolt! Infamous hotel! (_He returns to table, and prepares to
+write._) By the way, I should like to know if she’s read this (_looking
+at letter_). Well, there’s a very old method for ascertaining that: ask
+her. (_Goes to door, and knocks._) Madam, pardon me—
+
+_Luc._ What do you want, sir?
+
+_Cha._ Madam, my letter was left open on the table; and in taking it
+up—without, of course, the slightest desire—your eye must naturally have
+fallen upon it, and—
+
+_Luc._ (_aside_). I understand. (_Aloud._) I don’t understand you, sir;
+and, inasmuch as I’ve done what you desire, I must beg that we have no
+further conversation, as I shall refuse to answer.
+
+_Cha._ Why, may I ask? I was asleep just now, and dreaming charmingly.
+If you like, I’ll tell you the dream.
+
+_Luc._ Certainly not, sir.
+
+_Cha._ Very good: it’ll keep for another time; but then, inasmuch as it
+was you that woke me up, permit me at least to converse with you as a
+compensation.
+
+_Luc._ (_aside_). He is not stupid.
+
+_Cha._ I beg pardon: did you speak?
+
+_Luc._ (_aside_). What have I to dread? He seems a gentleman. (_Aloud._)
+Well, sir, proceed, as you consider yourself aggrieved; only remember
+that I trust to your feelings as a gentleman, and your discretion.
+
+_Cha._ Madam, you may depend upon it. (_Wheeling arm-chair to door, and
+speaking through keyhole._) Are you married?
+
+_Luc._ (_affronted and aside_). Upon my word! (_Aloud._) Do you call
+that discretion, sir?
+
+_Cha._ Most certainly; as a subject of conversation I see nothing
+against it. Society prescribes certain forms of conversation; and, to
+ascertain what forms to use, one must know whether one is speaking to a
+widow or a young girl, to an old maid or a married woman.
+
+_Luc._ In—I—I am married.
+
+_Cha._ (_aside_). So much the worse. I, madam, am a bachelor, and I’m
+going to Baden. Where may you be going?
+
+_Luc._ A long way off, sir.
+
+_Cha._ To—
+
+_Luc._ To rejoin my husband, naturally.
+
+_Cha._ By the way, madam, do you love your husband?
+
+_Luc._ Excuse me, sir, but, if you don’t mind, we’ll change the
+conversation.
+
+_Cha._ Whatever pleases you, madam, pleases me. (_Pause._) A charming
+hotel, madam, is this Golden Lion. So well furnished, so well decorated!
+My goodness me! it gives me the inclination to set fire to the place.
+
+_Luc._ If you’ve any such intentions, sir, pray remember that I’m in the
+hotel.
+
+_Cha._ Very good; only just remember, that, in not setting fire to the
+hotel, I’m saving your life. (_A pause._) By the way, madam, now I come
+to think of it, you do not love your husband.
+
+_Luc._ Sir!
+
+_Cha._ When one is compelled to separate one’s self from a husband that
+one loves, one is not so light-hearted as you were just now, and—
+
+_Luc._ Really, sir!
+
+_Cha._ Madam, pardon me, but you do not evidently possess a husband who
+would make you cry out in the words of Sterne, “Oh, Love, king of gods
+and men!” Now, if it had been my fate to have crossed your path, I swear
+that—
+
+_Luc._ And I swear to you, sir, that I would never marry a man who was
+too lazy to do any thing.
+
+_Cha._ Madam, you have read my letter.
+
+_Luc._ I, sir? oh, dear, no! I can assure you I only looked at it. By
+the way, would you mind informing me how it is that you came to inhabit
+this room?
+
+_Cha._ Well, the fact is, I went to sleep on the sofa: I’ve some faint
+recollection of the landlord coming in and asking me something about
+moving out; but he was so long about it that I fell asleep again, and
+during that time I fancy he had me quietly carried, sofa and all, into
+the next room. By the way, I have a charming idea.
+
+_Luc._ May I venture to ask it? (_Aside._) I should like to have a look
+at this man.
+
+_Cha._ Madam, in the East, you are aware that a veil is a protecting
+wall between man and woman. If you would endeavor to put on such a veil,
+and would do me the honor of granting me an interview,—the landlord can
+supply us with refreshments,—we can converse more easily than through
+this partition; in fact, we shall be in the East; and, further, I pledge
+myself on my honor as a gentleman, that nothing shall in any way cause
+you to regret our interview.
+
+_Luc._ (_aside_). His letter announces that he intends to risk his
+fortune. What if I could dissuade him? it would at least be the act of a
+Christian, and—and a woman.
+
+_Cha._ What! not a word? must I then beseech you in song?—
+
+  (_Sings._)
+
+                Oh! let my voice persuasive
+                  Penetrate to your inmost heart;
+                Oh! list to my prayer so plaintive,
+                  Through the door that keeps us apart.
+
+_Luc._ I consent, but upon one condition; and that is, that you explain
+to me how it is that a man can be too lazy to do any thing.
+
+_Cha._ Very good; at least I will explain to you the meaning of this
+somewhat bad joke.
+
+_Luc._ Sir, upon these conditions in a few moments I shall be prepared
+to meet you—in China.
+
+_Cha._ Madam, in a few minutes I shall have the honor of presenting
+myself. (_Goes to window, calling._) Mr. Red Lion, or Mr. White Horse!
+
+_Luc._ (_aside_). I suppose I’d better alter my dress a little for the
+occasion.
+
+                                                         [_Exit_ L. 1 E.
+
+_Cha._ (_coming down stage_). He has absolutely condescended to hear
+me,—this landlord. Upon my word, I’m rather pleased with this little
+adventure; if I’d gone to the ball, at any rate, I should never have
+heard so sweet a voice.
+
+               _Enter_ PRICHARD, _slightly intoxicated._
+
+_Pri._ For nobody else but you, sir, would I have disturbed myself upon
+the auspicious occasion. To-day! yesterday! did I tell you that my
+daughter was married? Yes, sir, to make—
+
+_Cha._ You couldn’t do better, my dear White Horse, if you intended
+giving your daughter a husband. Just listen to me for a moment; you will
+oblige me by going up—yourself, mind—into that lady’s room next door.
+
+_Pri._ Marrying one’s daughter, sir, when one is a father, is a grave
+responsibility; my emotions—
+
+_Cha._ Of course you feel as a father; you will be good enough to take
+up plenty of candles, some flowers—
+
+_Pri._ So long as she’s happy, so long as—(CHARLES, _movement of
+impatience_)—candles, sir, yes, sir, and flowers; yes, sir.
+
+_Cha._ Afterwards you will bring up some refreshments; tea, for
+instance.
+
+_Pri._ Tea, sir?
+
+_Cha._ Yes; tea, tea, tea.
+
+_Pri._ Senna tea?
+
+_Cha._ No, confound you, ordinary tea!
+
+_Pri._ Ordin— ordmorary— onding (_Charles impatient_)—You’re not ill, I
+hope, sir?
+
+_Cha._ Not in the least, thanks. (_Going, Charles stops him._) Ah, by
+the way, landlord, that lady in the next room—what sort of a person is
+she?
+
+_Pri._ Char—ming, sir; be-a-u-ti-ful. Oh! she’s much handsomer than her
+father; but if hereafter he should betray her, if he should—
+
+_Cha._ Who the devil are you talking about?
+
+_Pri._ My shon-in-law.
+
+_Cha._ Confound your son-in-law!
+
+_Pri._ Yes, sir, certainly, sir: that’s what I say, and—
+
+_Cha._ Be off, and do what I told you.
+
+_Pri._ Yes, sir, directly; but you’ll understand that on such an
+auspicious—
+
+_Cha._ There, there—be off; Red Lion—he’s gone.
+
+_Pri._ (_turning at door_). White Horse Hotel, sir, please.
+
+                                                                [_Exit._
+
+_Cha._ (_alone_). I suppose he’ll do what I’ve told him. I ought to
+change my coat too. Upon my honor (_dressing himself_), I’m delighted
+with my evening; and somehow or another, oddly enough, I feel quite
+curious to see this woman; in fact, I begin to be interested. It’s so
+long since I’ve been in the least interested—yes, it’s six months since
+any thing of the kind has happened. And my heart is, after all, but
+human: it detests a void.
+
+                                                    [_Goes on dressing._
+
+      _Enter_ PRICHARD _and_ GEORGE, L. 2 E., _carrying candelabra
+                         and vase of flowers_.
+
+_Pri._ (_still drunk_). George, your conduct is schandalush: your
+master’s daughter is married to-day, and you take no more notish of the
+event than a cow, than a cow or calf; you’ve no heart, George, you’ve no
+shoul.
+
+_George._ But, sir—
+
+_Pri._ Hold your tongue; pray for her happiness, and go down and tell
+her I’m coming.
+
+                                                         [_Exit_ GEORGE.
+
+     _Enter_ LUCY 1 E. L., _veil in hand, and long cloak on, hiding
+                                figure_.
+
+_Luc._ (_perceiving flowers_). Oh, what a charming change! I
+congratulate you, sir.
+
+_Pri._ I’ll tell her, madam, she will be delighted; such a day, you
+understand, madam. If she’s only happy! May heaven—
+
+_Cha._ He’s having a reel in the next room now.
+
+_Luc._ Who are you talking about?
+
+_Pri._ Eh, my daughter, madam; at this moment she’s so happy—may she be
+so all her life! and as to your maid, madam, she dances as if my
+daughter’s happiness depended on her legs, you understand. Madam, of
+course I mean—
+
+_Luc._ Perfectly; be good enough to open that door, and show the
+gentleman in, who is in there.
+
+                                         [_Sits down, and puts on veil._
+
+_Pri._ But, madam—
+
+_Luc._ Do what I tell you.
+
+_Pri._ (_hesitating, yet opens door of communication, and enters_
+CHARLES’S _room_). Sir!
+
+_Cha._ All right, I’ve heard; you can announce me.
+
+_Pri._ You wrote your name in my book; but you see, sir, my daughter’s—
+
+_Cha._ You’ve forgotten it; say Mr. Charleston King.
+
+_Pri._ (_re-entering_ L. H.). Mr. Charles, son of a king!
+
+_Luc._ Son of a king!
+
+_Cha._ (_entering_). Charleston King, at your service, madam.
+
+_Pri._ (_aside, going_). A veiled woman in my house on such a day!
+
+                                                                [_Exit._
+
+_Cha._ (_taking a chair near_ LUCY). It is really too good of you,
+madam, to receive a man in your rooms who you never saw; and I scarcely
+know how to thank you.
+
+_Luc._ You will thank me, sir, by explaining how it is that one can be—
+
+_Cha._ Too lazy for any thing.
+
+_Luc._ Precisely. If you will take the chair near you, you can be
+seated.
+
+_Cha._ Well, you see, in this world men have all sorts of faces.
+(PRICHARD _enters with tea-tray_.) Confound this fellow! Just as I was
+getting on so nicely!
+
+_Pri._ (_putting down tea_). Madam—
+
+_Cha._ Talking of faces, let me draw your attention, madam, to this one
+(_pointing to_ PRI.’S _face_). There is a face that has committed
+faults—crimes.
+
+_Pri._ Crimes! Faults! Me, madam! me, sir! Here is the best tea, which
+upon this auspicious day—
+
+_Cha._ That’ll do.
+
+_Pri._ Crimes! Faults! Yes, madam, your maid has charmed us to such an
+extent with her dancing on this auspicious—
+
+_Luc._ (_taking no notice of_ PRI.). Go on talking, sir, whilst I pour
+out the tea.
+
+_Cha._ Well, madam, in consequence of my misfortune my lifetime has
+indeed been a miserable one,—sorrow upon sorrow, faults accumulating
+upon faults.
+
+_Pri._ (_leaving_). Crimes! Faults, indeed!
+
+                                                                [_Exit._
+
+_Cha._ My friends always insisted on declaring that I was too lazy to do
+any thing; and the unlucky star that I was born under, gossiping
+tongues, and certain circumstances all combined, seemed to favor such a
+prediction.
+
+_Luc._ But, sir, was this merited? (_Making tea._) Will you have a cup
+of tea, Mr.—Mr.—
+
+_Cha._ (_absorbed_). Apollo.
+
+_Luc._ Mr. Apollo.
+
+_Cha._ Madam! Ah, a thousand pardons. I was absorbed in thinking of my
+miserable self.
+
+_Luc._ (_getting interested_). Have you no relations?
+
+_Cha._ I had an uncle, a well-known merchant, but he died two years ago.
+
+_Luc._ And didn’t he leave any thing?
+
+_Cha._ Oh, dear, yes; he left a very nice fortune. In fact, he adopted
+this young lady on purpose to do that.
+
+_Luc._ Oh, that wasn’t right.
+
+_Cha._ I don’t know that it’s wrong; but it is not on account of this
+that I owe him a grudge. I heard that the only way in which he could
+discharge an obligation to a friend of his was by adopting this friend’s
+daughter, who was left an orphan, a very charming person, I heard; at
+least, so I was told, for I refused to put my foot inside his house.
+
+_Luc._ Curious determination!
+
+_Cha._ Pardon me: not at all. The fact is, he insulted me,—he made me a
+present.
+
+_Luc._ A present! what could it be?
+
+_Cha._ “_A very handsome dressing-case_” (_a waltz is heard playing
+outside_), with my name engraved upon it, and below my name the
+following compliment: “Too lazy to do any thing.” I was furious, but I
+wanted a dressing-case: so, as I wanted a dressing-case, I kept it. I’ll
+trouble you for another cup of tea, at least if you don’t find me too
+lazy for that?
+
+                                                         [_Handing cup._
+
+_Luc._ With pleasure.
+
+                                                           [_Hands cup._
+
+_Cha._ Thanks; don’t let’s talk of my unfortunate self any more; a
+little more sugar, please.
+
+_Luc._ This country band really plays that waltz charmingly.
+
+_Cha._ (_listening and pondering_). Yes, oh, yes; how often have I heard
+that air, and how happy have I been!
+
+_Luc._ That waltz?
+
+_Cha._ My mother used to play it to me when _I was a little child_!
+
+_Luc._ Have you any control over yourself?
+
+_Cha._ Most certainly, a good deal even; ask me to prove it.
+
+_Luc._ You would not grant what I ask.
+
+_Cha._ I wouldn’t. Ah, madam! you want to send me away.
+
+_Luc._ Not at all: only I wished to explain to you, that, never having
+worn a thick veil in a room, I’m simply stifling.
+
+_Cha._ I can quite believe you. Nothing, nothing is so dangerous as a
+thick veil: you must take it off at once,—you must.
+
+_Luc._ If you can sufficiently control yourself to sit in a chair here
+without turning your head, I will sit behind you, and we can finish our
+conversation without my being stifled.
+
+_Cha._ (_reproachfully_). What, madam!
+
+_Luc._ Well, you must choose; for, as I don’t want to die of
+suffocation, I shall be forced to give you your _congé_.
+
+_Cha._ (_taking chair down front of scene, and sitting_). Madam, this is
+the second time it is my good fortune to save your life to-night, in
+return for which—
+
+_Luc._ (_advancing with a cup of tea in one hand, whilst with the other
+she keeps him down in the chair_). Then, sir, I am to understand that,
+notwithstanding all the misfortunes connected with your nickname, you
+have still hope.
+
+_Cha._ Yes,—hope, that poor little creature that nothing can kill.
+
+_Luc._ It is, then, this hope that takes you to Baden?
+
+_Cha._ Baden is, as far as I’m concerned at this moment, my last hope in
+this world; then, if my luck is once more against me, if fortune fails
+to help me, if that poor little creature, hope, succumbs to bad luck,
+why, then—
+
+_Luc._ You’ll go and join your mother.
+
+_Cha._ Yes, madam, I shall go.
+
+                                           [_Endeavoring to turn round._
+
+_Luc._ If you do that, I shall have to tie you with my handkerchief.
+Don’t you think now, joking apart, that it would be wiser, without
+tempting fortune at Baden, to go to your “mother at once”? (_Waltz music
+again._) She’d play to you again. (_Listening._) Come, do you hear that
+waltz? and when you hear it once more by her side,—that dear
+mother,—you’ll be happy, and—
+
+_Cha._ Ah! then, in reading my letter, you evidently did not understand,
+did not comprehend.
+
+_Luc._ Comprehend what?
+
+_Cha._ The country that my mother is gone to.
+
+_Luc._ No.
+
+_Cha._ It is the Country of Peace, of Repose,—the only land from which
+the mother cannot return to console her child.
+
+_Luc._ (_making a movement as if to show herself_). Then, sir, am I to
+understand that if you lost—you would—(_stops, and reseats herself_)—he
+has no mother!
+
+_Cha._ It would not interest you, madam, to learn all these details; but
+please to remember that you are not my friend George, and that I’ve not
+absolutely gone on my knees to you to read my letter.
+
+_Luc._ (_aside, looking at_ CHARLES). Just imagine if it were him!
+(_Rising with animation._) Well, sir, I don’t repent of having read your
+letter: in fact, I congratulate myself on having done so; and I am also
+glad to see you here, for now I can implore you, beseech you, to
+renounce such fatal plans; to beg of you with clasped hands to do so, in
+the name of your mother.
+
+_Cha._ Madam!
+
+_Luc._ Listen, sir. I cannot explain to you my object in being so
+curious; but what is your name?
+
+_Cha._ Charleston King.
+
+_Luc._ Sir!
+
+_Cha._ That is my veil. If you want to take it off, remove your own.
+
+_Luc._ No, sir: that is impossible; but—
+
+_Cha._ In that case, madam, I am Charleston King, too lazy to do any
+thing, but quite at your service.
+
+_Luc._ (_aside_). What shall I do? (_Looking round, sees flowers._) Ah!
+(_Takes a sprig of May, and comes towards_ CHA.) Sir, we are about to
+part, probably never to meet again; would it be repugnant to your
+feelings to accept a souvenir?
+
+_Cha._ Pardon, madam, but you don’t propose giving me a dressing-case?
+
+_Luc._ Don’t be alarmed. The souvenir I give you, do you promise to keep
+it?
+
+_Cha._ For ever, madam, I swear it. (_Aside._) What can it be?
+
+_Luc._ (_kissing sprig, and leaning against back of_ CHA.’S _chair_).
+Take it.
+
+_Cha._ (_looking at it, but not taking it_). A sprig of May!
+
+_Luc._ Upon which I have just left a kiss. (CHA. _moves_.) You have
+sworn never to part with it. Good! Should you persist in your fatal
+project, at the moment when you are about to commit this frightful act,
+perhaps my poor little sprig may catch your eye; perhaps it will remind
+you of the days of your childhood, those happy days that have fled away;
+those Sundays when your mother’s smile was upon you as you filled your
+little arms with flowers, and brought your childish offering to her
+knees.
+
+_Cha._ Keep still, my heart!
+
+_Luc._ If you should have such thoughts, your courage will be tried;
+for, in speaking to you of me, my little sprig will also remind you of
+your mother; and if you should still desire—
+
+_Cha._ (_seizing sprig_). No, no! I have no longer any such desire
+(_seizing her hand, and kissing it, slides upon his knees_). I swear it
+to you on my knees. But I must see the angel who—(_Lifts his head, when_
+LUCY _turns away_). Ah, cruel! This hand at least I hold.
+
+                                               [_Covers it with kisses._
+
+_Luc._ Give me my hand, sir, or else—
+
+_Cha._ Or else—
+
+_Luc._ Tell me your name.
+
+_Cha._ Shall I see your face?
+
+_Luc._ No, no! I cannot possibly—
+
+_Cha._ Madam, I implore you! I beseech you!
+
+_Eliz._ (_outside_). It’s me, mam. There’s no key.
+
+_Luc._ Elizabeth!—Get up at once, and return to your room, I implore
+you!
+
+_Cha._ Madam, I obey you; but—
+
+_Luc._ (_going towards door_). Thanks, sir, and don’t forget my lecture.
+
+_Cha._ (_entering his room_). In thinking of you, madam, I shall always
+remember it.
+
+                                             [_Exit._ LUCY _opens door_.
+
+_Eliz._ (_entering_ 2 E. L.). Why, the key’s fallen out. (_Aside._)
+She’s been up to something, I know.
+
+                                                         [_Replaces it._
+
+_Luc._ (_still upset_). You must be tired, Elizabeth. Go to bed, my good
+girl, go.
+
+                                  [_Reseats herself, and takes up book._
+
+_Eliz._ (_takes off tea things_). I tired! Oh, no, mum! (_Returns._)
+Surely thirty waltzes or quadrilles wouldn’t tire me much; and there’s
+only two hours to sleep. It’s not worth while going to bed: so, if you
+please, mum, I’ll sit up with you.
+
+                                                        [_Sits on sofa._
+
+_Luc._ It must, then, be that nephew, the son of his sister, of whom Mr.
+Mortimer always avoided speaking to me.
+
+_Cha._ (_in next room, uneasy_). What on earth made her so anxious to
+know my name?
+
+_Luc._ At any rate, I have his promise: that’s some consolation. By the
+way, Elizabeth, did you know Mr. Mortimer’s nephew?
+
+_Eliz._ Well, yes,—little Charley Devereux. Oh, yes! I recollect; and
+I—I—(_falling asleep and dreaming_) thank you, sir: I don’t dance any
+more.
+
+_Cha._ And to think she’ll leave without my seeing her face! It’s
+abominable!
+
+                                                               [_Rises._
+
+_Luc._ (_Looking at_ ELIZABETH). She’s asleep, poor thing! She’ll catch
+cold.
+
+                                           [_Covers her with her cloak._
+
+_Cha._ Ah, this window! Perhaps there’s a veranda.
+
+                                                      [_Goes to window._
+
+_Luc._ How can I ascertain for certain that he is Mr. Mortimer’s nephew?
+I must know it somehow.
+
+_Cha._ No road here; perhaps by the other staircase. I shall just go in
+without knocking, as if I had forgotten; that’s it: here goes.
+
+                                                 [_Exit, slamming door._
+
+_Luc._ That noise was in his room. I think he’s gone out. If I was
+certain that dressing-case he spoke of would tell me! (_At door._) Sir,
+Mr. King! No answer. What have I to fear?
+
+                                           [_Enters room, closing door._
+
+_Cha._ (_gently opening_ 2 E. L. _door_). Yes, this is the room.
+(_Looking round._) She sleeps; my handkerchief too. Now, my charming
+girl, let me see your face. (_Takes candle, starts back._) Confound it!
+Well, there’s the end of my dream.
+
+                                         [_Heaves a sigh, and goes out._
+
+_Eliz._ (_starting up_). There’s somebody in the room. (_Goes to door at
+back, and looks in._) I knew she was up to something: I’ll find it out,
+see if I don’t.
+
+                                                         [_Exit_ 1 L. E.
+
+_Luc._ (_searching_). Ah, here it is at last,—Charles Devereux. It’s he,
+it’s he! (_She returns hastily, and bolts door._) Ah, how my heart
+beats! what shall I do now? (_Thinking._) The fact is, he’s very nice,
+notwithstanding his nickname.
+
+_Cha._ (_entering, and falling into arm-chair_). Another dream, that
+takes itself off to the land of dreams. (_Striking table._) No, it’s
+always the same. If you were to go to a masked ball where there was only
+one woman—oh, love! oh, frenzy! the mask falls, ugh! no more love, no
+more frenzy. The woman’s ninety, and ugly as—heaven knows what.
+
+_Luc._ He’s come in. (_Calling at door._) Mr. King!
+
+_Cha._ And such a voice!
+
+_Luc._ Sir.
+
+_Cha._ Woke her up, I suppose. Madam—
+
+_Luc._ Sir, I should like to have a few words of explanation with you.
+
+_Cha._ (_running to fasten door_). Oh, by jingo!
+
+_Luc._ He’s locked himself in. (_Aloud._) Pardon me, sir, for troubling
+you; but—but—if I mistake not, you are Mr. Charles Devereux, the nephew
+of Mr. Mortimer.
+
+_Cha._ I suppose you mean, madam, that that gentleman was my uncle. I
+don’t dispute the fact. (_Aside._) How the mischief did she find that
+out? Ah! it’s that confounded landlord told her.
+
+_Luc._ Well, sir, I’ve a most important communication to make to you
+from his adopted child.
+
+_Cha._ But I don’t want to hear what she’s got to say, madam. You know
+her?
+
+_Luc._ Yes, sir, I know her; and I also know that she has been seeking
+you for a long time, in order to give you up a fortune which by right
+belongs to you.
+
+_Cha._ What you propose, madam, is ridiculous. I could never accept a
+farthing.
+
+_Luc._ But suppose in seeing her you happen to like her, and that—
+
+_Cha._ I shall never like her.
+
+_Luc._ Perhaps you might. If she were like me, for instance?
+
+_Cha._ Never, madam. I’m sworn celibacy,—a knight of Malta, in fact.
+
+_Luc._ (_aside_). What an extraordinary change! (_Aloud._) Mr. King, I’m
+in the greatest danger, and you alone can save me.
+
+_Cha._ Madam, I’ve saved you twice to-night, and I distinctly refuse to
+do it any more.
+
+_Luc._ (_aside_). He’s absolutely getting impertinent. Sir, I have
+something to return to you that belongs to you,—a pocket-handkerchief.
+
+_Cha._ Thanks: I’ve got it,—one with a monogram. I really believe I must
+barricade my door.
+
+                                         [_Puts furniture against door._
+
+_Luc._ He’s got it! Why, he must have come in here, then; and—and—of
+course he saw Elizabeth with my cloak round her. I see. Ha, ha, ha!
+
+_Cha._ Confound her, she’s laughing! She laughs too as if she was only
+twenty.
+
+_Luc._ So, sir, you refuse to open the door?
+
+_Cha._ Quite impossible, madam. I’m gone, I’m a long way off, I’m on my
+road to Baden.
+
+_Luc._ Pleasant journey, sir. (_Aside._) It can’t be helped, I must have
+recourse to more violent means.
+
+                                                           [_Exit_ L. D.
+
+_Cha._ I verily believe she’s going to burst the door in: I’d better
+bolt. The devil! this is becoming serious. It almost reminds me of my
+adventure amongst the savages in Africa, where the daughter of a king,
+with rings in her nose, took a violent fancy to me. The king favored the
+marriage, and told me quietly that I had the choice, if I didn’t marry
+his daughter he’d eat me. I at once answered, “Your Majesty, I prefer to
+enter your family to your mouth; I’ll marry your daughter to-morrow.”
+And during the night I escaped to the coast. Let us do the same, and
+escape to the coast.
+
+                                                      [_Makes for door._
+
+_Pri._ (_appearing at door drunk_). Miss Lucy Mortimer wishes to have
+the honor of seeing you, sir.
+
+_Cha._ Miss who, did you say?
+
+_Pri._ Well, sir, beg pardon, it’s your cousin’s uncle or your uncle’s
+cousin.
+
+_Cha._ Ask the lady to walk in, wretched man.
+
+_Pri._ (_announcing_ LUCY, _who is in_ ELIZABETH’S _cloak with a thick
+veil on_). Miss Lucy Mortimer.
+
+_Cha._ (_advancing, confused_). Madam, I thought I—
+
+_Luc._ (_speaking to him in a disguised voice, and throwing back veil_).
+Well, sir, what do you think of me?
+
+_Cha._ Ah, madam! Even the most confused man in the world could but
+confess that you are charming. (_Aside._) If my neighbor were only half
+as pretty! Charming is not the word; but, excuse me, you come here at
+five in the morning, and ask me what I think of you. Well, that’s all
+right, I suppose; but pardon me if I go further, and venture to ask in
+the most humble manner in the world a little question.
+
+_Luc._ (_same voice_). I’m listening.
+
+_Cha._ I scarcely know how to put it, but by what curious coincidence do
+you come to know my name?
+
+_Luc._ (_in ordinary voice_). Because, sir, I found out. (_Points to
+dressing-case._) Because it’s the name of a kind, frank, brave young
+fellow, whom I really don’t find too lazy for any thing, and whom I’ve
+also learned to know as too honorable to misinterpret.
+
+_Cha._ That voice! impossible. (_Points to_ L. H.) It can’t be you. Who
+could I have seen there just now?
+
+_Luc._ My maid, who was asleep whilst I was here, reading your name.
+
+_Cha._ Why, it’s like a dream. But your husband, madam—
+
+_Luc._ He too has gone to that land of rest.
+
+_Cha._ You are then—
+
+_Luc._ Miss Lucy Mortimer, your cousin, who can no longer retain the
+fortune that so justly belongs to you.
+
+_Cha._ (_confused_). But I absolutely refuse to—
+
+_Luc._ Ah, if you refuse me, I shall ask you to give me back my sprig of
+May.
+
+_Cha._ (_kneeling_). Never. I will keep it to the last moment of my
+life, and with it the hand I now hold.
+
+                                       [_Sinks on his knee. Door opens._
+
+_Luc._ Get up: here’s some one coming.
+
+                       _Enter_ PRICHARD, R. 2 E.
+
+_Pri._ Madam, sir, the postilions are harnessed: I mean the horses.
+
+_Cha._ Confound that landlord!—Come here, landlord. (_Takes_ PRI. _up_
+C.) Did you ever hear that this hotel of yours was infected with a
+malady of the most infectious character?
+
+_Pri._ Sir, I beg most distinctly to state that—
+
+_Cha._ Landlord, you’re very drunk.
+
+    [_Pushes him through door into next room, where he falls on sofa._
+
+_Luc._ Oh, Charles, dear! I hope we sha’n’t catch it.
+
+_Cha._ Don’t be afraid, dear: the malady which I allude to is one from
+which we are both of us suffering, and it is one that has but one remedy
+for its cure. (_To audience._) Dear friends, the malady is love: the
+remedy is marriage. If any of you are suffering from some of the
+premonitory symptoms of this insidious disease, you will, I feel sure,
+accord us your utmost sympathy. But if there should be any here who have
+not yet been attacked, and who wish to avoid contagion, let me strongly
+recommend them to avoid, upon any pretence whatever, a conversation with
+a lady which is to be carried on
+
+                  *       *       *       *       *
+
+                             UNDER A VEIL.
+
+
+                               _Curtain._
+
+------------------------------------------------------------------------
+
+
+
+
+“=Books that our Teachers ought to have on hand to SPICE UP with now and
+then.=”—ST. LOUIS JOURNAL OF EDUCATION.
+
+
+                            GEO. M. BAKER’S
+
+                    READING CLUB and HANDY SPEAKER,
+
+                                 BEING
+
+                   _Selections in Prose and Poetry_,
+
+      SERIOUS, HUMOROUS, PATHETIC, PATRIOTIC, and DRAMATIC. FRESH
+               and ATTRACTIVE PIECES for SCHOOL SPEAKERS
+                          and READING CIRCLES.
+
+In the words of the GOSPEL BANNER,—
+
+      _‘From grave to gay, from lively to severe,’
+      In poetry and prose a judicious mixture here;
+      Beside outlandish dialects, full of words odd and queer,
+      Which stir one’s sense of humor as they fall upon the ear,
+      Pleasant to those who read or speak as unto those who hear._
+
+Published in Parts, each Part containing Fifty Selections. Paper Covers,
+15 cents each. Printed on Fine Paper, and Handsomely Bound in Cloth,
+price, 50 cents each.
+
+
+                          READING CLUB NO. 1.
+
+“We have many readers and books that purport to furnish pieces for the
+use of amateur speakers and juvenile orators. But the great defect in
+nearly all of them is, that their selections are made from the same
+series of authors. We are surfeited _ad nauseam_ with ‘The boy stood on
+the burning deck,’ ‘On Linden, when the sun was low,’ ‘My name is
+Norval!’ or, ‘My voice is still for war.’ But in this volume, the first
+of a series, Mr. Baker deviates from the beaten track, and furnishes
+some fifty selections which have not been published before in any
+collection of readings. Mr. Baker has himself written many pieces for
+the amateur stage, and achieved a reputation as a public reader, so that
+he is eminently qualified by his own experience for the task of teaching
+others.”—_Phil. Age._
+
+
+                          READING CLUB NO. 2.
+
+“Mr. Baker deserves the thanks of the reading public for his
+indefatigable endeavors in the field of light and agreeable literature.
+The selections are made with good taste, and the book will be of great
+value for its indicated purpose.”—_New Haven Courier._
+
+“In its adaptation to day schools, seminaries, colleges, and home
+reading, the work will be found very superior in its variety and
+adaptability of contents.”—_Dayton (Ohio) Press._
+
+
+                          READING CLUB NO. 3.
+
+“This is one of those books that our teachers ought to have at hand to
+_spice up_ with now and then. This is No. 3 of the series, and they are
+all brim full of short articles, serious, humorous, pathetic, patriotic,
+and dramatic. Send and get one, and you will be sure to get the
+rest.”—_St. Louis Journal of Education, Jan. 1876._
+
+“The young elocutionist will find it a convenient pocket companion, and
+the general reader derive much amusement at odd moments from its
+perusal.”—_Forest and Stream, N. Y., Jan. 6, 1876._
+
+
+                  READING CLUB NO. 4. (_Just Ready._)
+
+
+_Sold by all Booksellers, and sent by mail, postpaid, on receipt of
+price._
+
+                                      LEE & SHEPARD, Publishers, Boston.
+
+------------------------------------------------------------------------
+
+
+
+
+                      Dickens’s Dramatic Readings.
+
+                          COMPILED BY HIMSELF.
+
+               _Comprising the Famous American Readings._
+
+               In Neat Paper Covers. Price, 15 cts. Each.
+
+             NICHOLAS NICKLEBY (at the Yorkshire School).
+               THE STORY OF LITTLE DOMBEY.
+                 MR. BOB SAWYER’S PARTY.
+                   A CHRISTMAS CAROL.
+                     DR. MARIGOLD.
+                       BOOTS AT THE HOLLY TREE INN.
+                         NICHOLAS NICKLEBY (short reading).
+                           BARDELL AND PICKWICK.
+                             DAVID COPPERFIELD.
+                               MRS. GAMP.
+
+This style, for the use of readers and schools, is worthy of
+examination.
+
+Also, in one handsome 12mo volume, illustrated. $1.50.
+
+
+
+
+                  _The Independent Household Dickens._
+
+                        CHARLES DICKENS’S WORKS.
+
+  _A new edition in fifteen 12mo vols. Elegantly bound and handsomely
+                             illustrated._
+
+                        Price per Volume, $1.50.
+
+                          DAVID COPPERFIELD.
+                          PICKWICK PAPERS.
+                          DOMBEY AND SON.
+                          OLD CURIOSITY SHOP.
+                          OLIVER TWIST.
+                          CHRISTMAS STORIES.
+                        { EDWIN DROOD.
+                        { CHILD’S HIST. OF ENG.
+                          TALE OF TWO CITIES.
+                          NICHOLAS NICKLEBY.
+                          LITTLE DORRITT.
+                          BLEAK HOUSE.
+                          GREAT EXPECTATIONS.
+                          OUR MUTUAL FRIEND.
+                          MARTIN CHUZZLEWIT.
+                          BARNABY RUDGE.
+
+In issuing this new edition, which will be furnished either in sets or
+separate volumes, the publishers offer the best edition for the price in
+the market.
+
+
+                       LEE & SHEPARD, Publishers,
+
+                                             41-45 FRANKLIN ST., BOSTON.
+
+------------------------------------------------------------------------
+
+
+
+
+                      Plays for Amateur Theatrics
+
+                           BY GEORGE M. BAKER
+
+  _Author of “Amateur Dramas,” “The Mimic Stage,” “The Social Stage,”
+   “The Drawing-Room Stage,” “Handy Dramas,” “The Exhibition Drama,”
+                        “A Baker’s Dozen,” &c._
+
+             =Titles in this Type are New Plays.=
+
+             =_Titles in this Type are Temperance Plays._=
+
+
+                                 DRAMAS.
+
+                         _In Three Acts._                         _Cts._
+
+ =The Flower of the Family.= 5 male, 3 female char.                   15
+
+ ENLISTED FOR THE WAR. 7 male, 3 female characters                    15
+
+ MY BROTHER’S KEEPER. 5 male, 3 female char.                          15
+
+ =_The Little Brown Jug._= 5 male, 3 female char.                     15
+
+                             _In Two Acts._
+
+ =Above the Clouds.= 7 male, 3 female characters                      15
+
+ =One Hundred Years Ago.= 7 male, 4 female char.                      15
+
+ AMONG THE BREAKERS. 6 male, 4 female char.                           15
+
+ BREAD ON THE WATERS. 5 male, 3 female char.                          15
+
+ DOWN BY THE SEA. 6 male, 3 female char.                              15
+
+ ONCE ON A TIME. 4 male, 2 female char.                               15
+
+ =_The Last Loaf._= 5 male, 3 female char.                            15
+
+                              _In One Act._
+
+ STAND BY THE FLAG. 5 male char.                                      15
+
+ =_The Tempter._= 3 male, 1 female char.                              15
+
+
+                          COMEDIES AND FARCES.
+
+ =A Mysterious Disappearance.= 4 male, 3 female char.                 15
+
+ =Paddle Your Own Canoe.= 7 male, 3 female char.                      15
+
+ =_A Drop too Much._= 4 male, 2 female characters                     15
+
+ =_A Little More Cider._= 5 male, 3 female char.                      15
+
+ A THORN AMONG THE ROSES. 2 male, 6 female char.                      15
+
+ NEVER SAY DIE. 3 male, 3 female char.                                15
+
+ SEEING THE ELEPHANT. 6 male, 3 female char.                          15
+
+ THE BOSTON DIP. 4 male, 3 female char.                               15
+
+ THE DUCHESS OF DUBLIN. 6 male, 4 female char.                        15
+
+ THIRTY MINUTES FOR REFRESHMENTS. 4 male, 3 female char.              15
+
+ =_We’re all Teetotalers._= 4 male, 2 female char.                    15
+
+                         _Male Characters Only._
+
+ A CLOSE SHAVE. 6 char.                                               15
+
+ A PUBLIC BENEFACTOR. 6 char.                                         15
+
+ A SEA OF TROUBLES. 8 char.                                           15
+
+ A TENDER ATTACHMENT. 7 char.                                         15
+
+ COALS OF FIRE. 6 char.                                               15
+
+ FREEDOM OF THE PRESS. 8 char.                                        15
+
+ =Shall Our Mothers Vote?= 11 char.                                   15
+
+ GENTLEMEN OF THE JURY. 12 char.                                      15
+
+ HUMORS OF THE STRIKE. 8 char.                                        15
+
+ MY UNCLE THE CAPTAIN. 6 char.                                        15
+
+ NEW BROOMS SWEEP CLEAN. 6 char.                                      15
+
+ THE GREAT ELIXIR. 9 char.                                            15
+
+ THE HYPOCHONDRIAC. 5 char.                                           15
+
+ =_The Man with the Demijohn._= 4 char.                               15
+
+ THE RUNAWAYS. 4 char.                                                15
+
+ THE THIEF OF TIME. 6 char.                                           15
+
+ WANTED, A MALE COOK. 4 char.                                         15
+
+                        _Female Characters Only._
+
+ A LOVE OF A BONNET. 5 char.                                          15
+
+ A PRECIOUS PICKLE. 6 char.                                           15
+
+ NO CURE NO PAY. 7 char.                                              15
+
+ THE CHAMPION OF HER SEX. 8 char.                                     15
+
+ THE GREATEST PLAGUE IN LIFE. 8 char.                                 15
+
+ THE GRECIAN BEND. 7 char.                                            15
+
+ THE RED CHIGNON. 6 char.                                             15
+
+ USING THE WEED. 7 char.                                              15
+
+
+                               ALLEGORIES.
+
+                   _Arranged for Music and Tableaux._
+
+ LIGHTHEART’S PILGRIMAGE. 8 female char.                              15
+
+ THE REVOLT OF THE BEES. 9 female char.                               15
+
+ THE SCULPTOR’S TRIUMPH. 1 male, 4 female char.                       15
+
+ THE TOURNAMENT OF IDYLCOURT. 10 female char.                         15
+
+ THE WAR OF THE ROSES. 8 female char.                                 15
+
+
+                          MUSICAL AND DRAMATIC.
+
+ AN ORIGINAL IDEA. 1 male, 1 female char.                             15
+
+ BONBONS; OR, THE PAINT KING. 6 male, 1 female char.                  25
+
+ CAPULETTA; OR, ROMEO AND JULIET RESTORED. 3 male, 1 female char.     15
+
+ SANTA CLAUS’ FROLICS.                                                15
+
+ SNOW-BOUND; OR, ALONZO THE BRAVE AND THE FAIR IMOGENE. 3 male, 1     25
+   female char.
+
+ THE MERRY CHRISTMAS OF THE OLD WOMAN WHO LIVED IN A SHOE.            15
+
+ THE PEDLER OF VERY NICE. 7 male char.                                15
+
+ THE SEVEN AGES. A Tableau Entertainment. Numerous male and           15
+   female char.
+
+ TOO LATE FOR THE TRAIN. 2 male char.                                 15
+
+ THE VISIONS OF FREEDOM. 11 female char.                              15
+
+
+                        GEO. M. BAKER & CO., 41-45 Franklin St., Boston.
+
+
+    =Baker’s Humorous Dialogues.= Male characters only. 25 cents.
+    =Baker’s Humorous Dialogues.= Female characters only. 25 cents.
+
+
+
+
+
+End of the Project Gutenberg EBook of Under a Veil, by 
+Randell Roberts and George M. Baker
+
+*** END OF THIS PROJECT GUTENBERG EBOOK UNDER A VEIL ***
+
+***** This file should be named 52764-0.txt or 52764-0.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/2/7/6/52764/
+
+Produced by David Edwards, ellinora and the Online
+Distributed Proofreading Team at http://www.pgdp.net (This
+file was produced from images generously made available
+by The Internet Archive)
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
