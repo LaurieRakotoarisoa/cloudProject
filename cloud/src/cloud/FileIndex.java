@@ -13,8 +13,8 @@ import java.util.stream.Stream;
 
 public class FileIndex {
 	
-	private static Map<String,Long> createMapIndex(String path){
-		try (Stream<String> lines = Files.lines(Paths.get("docs/"+path))) {
+	public static Map<String,Long> createMapIndex(String path){
+		try (Stream<String> lines = Files.lines(Paths.get("cloud/docs/"+path))) {
 			return lines.flatMap(l -> Arrays.stream(l.split("[^A-Za-z]+")))
 		     .map(w->w.toLowerCase())
 		     .filter(w-> w.length()>3)
