@@ -12,7 +12,10 @@ import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
 import java.util.List;
 import java.util.Map;
+import java.util.concurrent.atomic.LongAccumulator;
+import java.util.function.LongBinaryOperator;
 import java.util.stream.Collectors;
+import java.util.stream.LongStream;
 import java.util.stream.Stream;
 
 public class Jaccard {
@@ -54,12 +57,10 @@ public class Jaccard {
 	private static void distanceJaccard(BufferedWriter bf,String f1, String f2) {
 		try (Stream<String> f1_lines = Files.lines(Paths.get(DIRECTORY+f1)); 
 			Stream<String> f2_lines = Files.lines(Paths.get(DIRECTORY+f2))) {
-			Map<String,Integer> map1 = f1_lines.map(line -> line.split(" "))
-			.collect(Collectors.toMap(a -> new String(a[0]), a -> Integer.parseInt(a[1]) ));
-			Map<String,Integer> map2 = f2_lines.map(line -> line.split(" "))
-					.collect(Collectors.toMap(a -> new String(a[0]), a -> Integer.parseInt(a[1]) ));
-			map1.keySet().retainAll(map2.keySet());
-			map2.keySet().retainAll(map1.keySet());
+			Map<String,Long> map1 = f1_lines.map(line -> line.split(" "))
+			.collect(Collectors.toMap(a -> new String(a[0]), a -> Long.parseLong(a[1]) ));
+			Map<String,Long> map2 = f2_lines.map(line -> line.split(" "))
+					.collect(Collectors.toMap(a -> new String(a[0]), a -> Long.parseLong(a[1]) ));
 			String res = f1+" "+f2+" "+computeJaccardMap(map1, map2)+"\n";
 			bf.write(res);
 		} catch (IOException e) {
@@ -67,13 +68,15 @@ public class Jaccard {
 			e.printStackTrace();
 		}
 	}
-	private static double computeJaccardMap(Map<String,Integer> m1, Map<String,Integer> m2) {
-		Integer num = m1.entrySet().stream()
-				.map(e -> Math.abs(e.getValue()-m2.get(e.getKey())))
-				.reduce(0, Integer::sum);
-		Integer den = m2.entrySet().stream()
+	public static double computeJaccardMap(Map<String,Long> m1, Map<String,Long> m2) {
+		m1.keySet().retainAll(m2.keySet());
+		m2.keySet().retainAll(m1.keySet());
+		Long num = m1.entrySet().stream()
+				.map(e -> Math.abs(e.getValue()- m2.get(e.getKey())))
+				.reduce(Long.valueOf(0),Long::sum);
+		Long den = m2.entrySet().stream()
 				.map(e -> Math.max(e.getValue(), m1.get(e.getKey())))
-				.reduce(0, Integer::sum);
+				.reduce(Long.valueOf(0),Long::sum);
 		
 		if(den > 0) {
 			return  num*1.0/den;
